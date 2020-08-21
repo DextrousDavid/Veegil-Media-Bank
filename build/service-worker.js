@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "https://facebook.com/precache-manifest.b7f48b3e5c92e02861631515089dc587.js"
+  "https://nifty-curie-86d612.netlify.app/precache-manifest.515b1587ebc9542e6711bd629278f7f8.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("https://facebook.com/index.html", {
+workbox.routing.registerNavigationRoute("https://nifty-curie-86d612.netlify.app/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
