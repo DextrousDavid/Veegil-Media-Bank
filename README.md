@@ -1,8 +1,8 @@
-# [Veegil Media Bank - Admin Dashboard Built with React and Bootstrap4](https://facebook.com)
+# [Veegil Media Bank - Admin Dashboard Built with React and Bootstrap4](https://nifty-curie-86d612.netlify.app/)
 
 ## Preview
 
-You can check out [live preview](https://facebook.com).
+You can check out [live preview](https://nifty-curie-86d612.netlify.app/).
 
 ## Quick Start
 

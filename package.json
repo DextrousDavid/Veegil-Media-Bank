@@ -2,7 +2,7 @@
   "name": "react-reduction",
   "version": "1.1.0",
   "private": false,
-  "homepage": "https://facebook.com",
+  "homepage": "https://nifty-curie-86d612.netlify.app/",
   "dependencies": {
     "bootstrap": "4.3.1",
     "chart.js": "2.7.2",
