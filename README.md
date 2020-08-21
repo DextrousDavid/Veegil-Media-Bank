@@ -1,4 +1,4 @@
-# [Veegil Media Bank - Admin Dashboard Built with React and Bootstrap4](https://github.com/dextrousdavid)
+# [Veegil Media Bank - Admin Dashboard Built with React and Bootstrap4](https://github.com/dextrousdavid/Veegil-Media-Bank)
 
 ## Preview
 
