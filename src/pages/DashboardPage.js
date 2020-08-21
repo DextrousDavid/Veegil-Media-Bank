@@ -135,7 +135,7 @@ class DashboardPage extends React.Component {
             </Card>
           </Col>
         </Row>
-
+        {/* Card Group */}
         <CardGroup style={{ marginBottom: '1rem' }}>
           <IconWidget
             bgColor="white"
