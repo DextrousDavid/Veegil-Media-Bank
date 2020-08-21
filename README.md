@@ -1,12 +1,12 @@
-# [Veegil Media Bank - Admin Dashboard Built with React and Bootstrap4](https://github.com/dextrousdavid/Veegil-Media-Bank)
+# [Veegil Media Bank - Admin Dashboard Built with React and Bootstrap4](https://facebook.com)
 
 ## Preview
 
-You can check out [live preview](https://github.com/dextrousdavid/Veegil-Media-Bank).
+You can check out [live preview](https://facebook.com).
 
 ## Quick Start
 
-1.  Clone the repo `git clone https://github.com/dextrousdavid/Veegil-Media-Bank`
+1.  Clone the repo `git clone https://github.com/dextrousdavid/Veegil-Media-Bank.git`
 2.  Go to your project folder from your terminal
 3.  Run: `npm install` or `yarn install`
 4.  After install, run: `npm run start` or `yarn start`

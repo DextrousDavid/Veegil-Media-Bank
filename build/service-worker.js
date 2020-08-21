@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "https://github.com/DextrousDavid/precache-manifest.b8df1cc4b36406f644ff1c544b206ced.js"
+  "https://facebook.com/precache-manifest.b7f48b3e5c92e02861631515089dc587.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("https://github.com/DextrousDavid/index.html", {
+workbox.routing.registerNavigationRoute("https://facebook.com/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
