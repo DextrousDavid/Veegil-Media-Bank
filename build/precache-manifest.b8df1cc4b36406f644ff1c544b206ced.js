@@ -4,11 +4,11 @@ self.__precacheManifest = [
     "url": "https://github.com/DextrousDavid/static/js/0.26b81d15.chunk.js"
   },
   {
-    "revision": "82f72281b3deaf87d79d",
-    "url": "https://github.com/DextrousDavid/static/css/main.a33314ad.chunk.css"
+    "revision": "a20c49b57e341a9286e6",
+    "url": "https://github.com/DextrousDavid/static/css/main.a0fe14a1.chunk.css"
   },
   {
-    "revision": "82f72281b3deaf87d79d",
+    "revision": "a20c49b57e341a9286e6",
     "url": "https://github.com/DextrousDavid/static/js/main.df4a6785.chunk.js"
   },
   {
@@ -148,7 +148,7 @@ self.__precacheManifest = [
     "url": "https://github.com/DextrousDavid/static/media/richard-m-damijo.a8464f19.jpg"
   },
   {
-    "revision": "1029785b2f69ee9daee4847dfd15b5f7",
+    "revision": "3585a929729980c6dcc29add5e8617d8",
     "url": "https://github.com/DextrousDavid/index.html"
   }
 ];
