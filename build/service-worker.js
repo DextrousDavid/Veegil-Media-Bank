@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "https://nifty-curie-86d612.netlify.app/precache-manifest.0c55c98e8463688d290298d16c1d300c.js"
+  "https://nifty-curie-86d612.netlify.app/precache-manifest.006b998b15a16784aec3b782afa1d6e1.js"
 );
 
 workbox.clientsClaim();
